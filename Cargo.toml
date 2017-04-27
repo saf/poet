@@ -1,0 +1,6 @@
+[package]
+name = "poet"
+version = "0.1.0"
+authors = ["saf <slawek.rudnicki@gmail.com>"]
+
+[dependencies]
